@@ -1,0 +1,16 @@
+pytorch-cpu
+torchvision-cpu
+Pillow 
+beautifulsoup4
+bottleneck
+dataclasses
+fastprogress
+matplotlib
+numexpr
+numpy
+packaging
+pandas
+pyyaml
+requests
+scipy
+typing
