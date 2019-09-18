@@ -1,9 +1,9 @@
-# :whale: fastai-vision-docker
+# fastai-vision-docker
 
-Docker Images with fastai core and vision libraries installed with conda.
+This is a docker container with fastai core and vision libraries (for smaller size) installed using conda. This can be used as a base container for deploying prediction workflows. The pre-built container is available [on dockerhub](https://hub.docker.com/r/beapen/fastai-vision) as beapen/fastai-vision:latest
 
-## About
+[Here is a OpenFaaS template](https://github.com/dermatologist/python3-ml) that uses this container as the base for easy serverless deployment. [Read more about OpenFaas](https://www.openfaas.com/).
 
-Base container for fastai deployment.
-See the OpenFaas template here: https://github.com/dermatologist/python3-ml
+## Author
 
+* [Bell Eapen](https://nuchange.ca) |  [Contact](https://nuchange.ca/contact)
